@@ -7,7 +7,9 @@ Proof of concept for a live VR code editor using svelte, three.js, threlte and p
 
 
 
-https://github.com/flo-bit/threlte-vr-code-editor/assets/45694132/448786db-df01-4f3b-855c-ccd2aabeac96
+https://github.com/flo-bit/threlte-vr-code-editor/assets/45694132/f190bf36-b157-4de5-846f-f9c7a8a9327e
+
+
 
 
 
