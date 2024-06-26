@@ -2,6 +2,14 @@
 
 Proof of concept for a live VR code editor using svelte, three.js, threlte and peer.js.
 
+## demo
+
+
+
+https://github.com/flo-bit/threlte-vr-code-editor/assets/45694132/9ddfb1be-ed27-4b0d-a64c-80178aedecef
+
+
+
 ## How to use in your own project:
 
 1. Make sure you have a threlte project set up (including the extras and xr packages), or create a new one by running:
