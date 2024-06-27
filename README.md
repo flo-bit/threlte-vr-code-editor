@@ -28,7 +28,7 @@ cd my-project
 npm i threlte-uikit peerjs
 ```
 
-3. Copy the [`editor` folder](https://download-directory.github.io/?url=https://github.com/flo-bit/threlte-vr-code-editor/tree/main/src/routes/editor) in `src/routes` from this project into your projects `src/routes` folder.
+3. Copy the `editor` folder in `src/routes` from this project into your projects `src/routes` folder.
 
 4. Either make sure your main scene is in `src/lib/components/Scene.svelte` or change the import in `src/routes/editor/[id]/vr/EditScene.svelte` to point to your main scene.
 
